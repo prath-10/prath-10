@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prath-10
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
 - 📫 How to reach me linkedin.com/in/prathameshbagull
 
