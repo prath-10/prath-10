@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @prath-10
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently busy hunting bugs
-- 📫 Reach me linkedin.com/in/prathameshbagull
+# Hi, I'm Prathamesh 👋  
 
-<!---
-prath-10/prath-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Offensive Security Consultant  
+📍 Based in Dubai, UAE  
+
+I work in offensive security, red teaming, and vulnerability discovery — helping organizations understand their real attack surface and strengthen their defenses.  
+I also enjoy breaking down security concepts, running phishing simulations, and creating training material that helps people stay a little safer online 😉
+
+When I'm not testing environments or writing reports, you’ll usually find me exploring new attack techniques, researching tooling, or sharing security insights.
+
+## 🌱 Currently working on
+- Red teaming & full-scope security assessments  
+- Phishing simulations and awareness training  
+- Bug bounty research & disclosure reports  
+- Security tooling & automation experiments  
+
+## 📫 Reach me
+- LinkedIn: https://linkedin.com/in/prathameshbagul  
+- X/Twitter: https://x.com/prath_10  
