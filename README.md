@@ -1,7 +1,6 @@
-# Hi, I'm Prathamesh 👋  
+# Hi👋  
 
-🔐 Offensive Security Consultant  
-📍 Based in Dubai, UAE  
+🔐 Offensive Security Consultant    
 
 I work in offensive security, red teaming, and vulnerability discovery helping organizations understand their real attack surface and strengthen their defenses.  
 I also enjoy breaking down security concepts, running phishing simulations, and creating training material that helps people stay a little safer online 😉
@@ -16,4 +15,5 @@ When I'm not testing environments or writing reports, you’ll usually find me e
 
 ## 📫 Reach me
 - LinkedIn: https://linkedin.com/in/prathameshbagul  
-- X/Twitter: https://x.com/prath_10  
+- X/Twitter: https://x.com/boltyx0
+  
