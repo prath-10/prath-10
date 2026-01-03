@@ -14,6 +14,5 @@ When I'm not testing environments or writing reports, you’ll usually find me e
 - Security tooling & automation experiments  
 
 ## 📫 Reach me
-- LinkedIn: https://linkedin.com/in/prathameshbagul  
 - X/Twitter: https://x.com/boltyx0
   
